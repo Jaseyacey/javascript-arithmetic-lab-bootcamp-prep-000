@@ -23,13 +23,13 @@ function divide(a,b) {
 }
 
 function inc(n){
-  var n = 176;
+  var n;
   n++;
   return n;
 }
 
 function dec(){
-  var n = 5;
+  var n;
   n--;
   return n;
 }
