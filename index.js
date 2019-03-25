@@ -24,7 +24,7 @@ function divide(a,b) {
 
 function inc(){
   var n = 6;
-  n++;
+  ++n;
   return n;
 }
 
