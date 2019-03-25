@@ -35,4 +35,4 @@ function dec(n){
   return n;
 }
 
-function parseInt('n' 2,);
+parseInt('0xF', 16);
