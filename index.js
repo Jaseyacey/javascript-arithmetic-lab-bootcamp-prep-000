@@ -1,3 +1,4 @@
+
 var a = 1;
 var b = 80;
 function add(a,b) {
@@ -34,5 +35,4 @@ function dec(n){
   return n;
 }
 
-function parseInt('2', 10);
-  return(integer);
+function parseInt(o)
