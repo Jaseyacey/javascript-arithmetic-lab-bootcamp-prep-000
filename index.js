@@ -35,4 +35,6 @@ function dec(n){
   return n;
 }
 
-parseInt('N', 16);
+parseInt('n', 16);
+makeInt();
+
