@@ -34,4 +34,6 @@ function dec(n){
   return n;
 }
 
-parseInt('2', 10) // 2
+function parseInt('2', 10) {
+  return (n);
+}
