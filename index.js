@@ -27,3 +27,9 @@ function inc(){
   n++;
   return n;
 }
+
+function dec(){
+  var n = 5; 
+  n--;
+  return n;
+}
