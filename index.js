@@ -28,7 +28,7 @@ function inc(n){
   return n;
 }
 
-function dec(){
+function dec(n){
   var n;
   n--;
   return n;
