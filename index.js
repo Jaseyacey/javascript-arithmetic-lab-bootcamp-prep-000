@@ -35,5 +35,5 @@ function dec(n){
   return n;
 }
 
-parseInt('n',);
+parseInt('n');
 makeInt();
