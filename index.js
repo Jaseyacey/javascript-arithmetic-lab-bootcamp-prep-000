@@ -36,4 +36,3 @@ function dec(n){
 }
 
 function parseInt('n');
-result(n = integer);
