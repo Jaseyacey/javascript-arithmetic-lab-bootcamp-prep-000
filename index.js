@@ -35,4 +35,4 @@ function dec(n){
   return n;
 }
 
-function parseInt(o)
+function parseInt()
