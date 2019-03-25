@@ -33,3 +33,7 @@ function dec(n){
   n--;
   return n;
 }
+
+function parseInt('2', 10);
+  return(integer);
+
