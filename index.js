@@ -22,9 +22,9 @@ function divide(a,b) {
   return a / b;
 }
 
-function inc(){
-  var a = 176;
-  a++;
+function inc(n){
+  var n = 176;
+  n++;
   return a;
 }
 
