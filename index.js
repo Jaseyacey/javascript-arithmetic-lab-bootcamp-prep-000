@@ -37,4 +37,3 @@ function dec(n){
 
 parseInt('n', 16);
 makeInt();
-
