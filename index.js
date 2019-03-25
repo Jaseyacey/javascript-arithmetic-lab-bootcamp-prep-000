@@ -36,5 +36,3 @@ function dec(n){
 }
 
 function makeInt('n');
-
-
