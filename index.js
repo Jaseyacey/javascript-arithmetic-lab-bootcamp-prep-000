@@ -22,7 +22,7 @@ function divide(a,b) {
   return a / b;
 }
 
-function increment(){
+function inc(){
   var n = 5;
   n++;
   return n;
